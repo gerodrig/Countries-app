@@ -1,4 +1,5 @@
 # CountriesApp
+This is a SPA that consumes https://restcountries.com/ API to check all countries information
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
